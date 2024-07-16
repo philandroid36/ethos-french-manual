@@ -1,5 +1,5 @@
-# Table des matières
+# Table of contents
 
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Vues principales](vues-principales.md)
 * [Interface utilisateur et navigation](interface-utilisateur-et-navigation.md)
