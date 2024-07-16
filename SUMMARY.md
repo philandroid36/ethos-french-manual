@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Vues principales](README.md)
+* [Introduction](README.md)
+* [Vues principales](<README (1).md>)
 * [Interface utilisateur et navigation](interface-utilisateur-et-navigation.md)
