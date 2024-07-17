@@ -21,8 +21,17 @@ La barre supérieure affiche le nom du modèle sur la gauche, ainsi que la phase
 
 L'appuie sur les icônes du haut-parleur ou de la batterie permet un accès direct aux options Général ou Batterie de la radio.
 
+Avertissement d'erreur
+
 ![image](https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6)
 
+Une icône d'avertissement d'erreur en triangle rouge s'affiche dans la barre supérieure de la vue principale lorsque ETHOS détecte une des erreurs suivantes:
+
+* Erreurs de script Lua
+* Erreur de sauvegarde de la RAM
+* Exécution d'une version de test du firmware non utilisable pour le vol.
+  
+Les détails relatifs à l'avertissement sont affichés dans la page Système / Infos. Veuillez vous référer à la  section Erreurs.
 &#x20;
 
 &#x20;
