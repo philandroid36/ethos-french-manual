@@ -21,6 +21,8 @@ La barre supérieure affiche le nom du modèle sur la gauche, ainsi que la phase
 
 L'appuie sur les icônes du haut-parleur ou de la batterie permet un accès direct aux options Général ou Batterie de la radio.
 
+![image](https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6)
+
 &#x20;
 
 &#x20;
