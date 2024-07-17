@@ -10,7 +10,7 @@ Les vues principales partagent normalement les barres supérieure et inférieure
 
 ### &#x20;La barre supérieure
 
-![image](https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6)
+<figure><img src="https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6" alt=""><figcaption><p>Barre supérieure</p></figcaption></figure>
 
 La barre supérieure affiche le nom du modèle sur la gauche, ainsi que la phase de vol active si ces dernières sont utilisées. Sur la droite se trouvent des icônes pour :
 
