@@ -19,7 +19,7 @@ La barre supérieure affiche le nom du modèle sur la gauche, ainsi que la phase
 * le volume sonore
 * l'état de la batterie radio
 
-Appuyez sur les icônes du haut-parleur et de la batterie pour afficher les panneaux de commande Radio / Général et Radio / Batterie correspondants.
+L'appuie sur les icônes du haut-parleur ou de la batterie permet un accès direct aux options Général ou Batterie de la radio.
 
 &#x20;
 
