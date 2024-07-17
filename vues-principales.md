@@ -21,7 +21,7 @@ La barre supérieure affiche le nom du modèle sur la gauche, ainsi que la phase
 * le volume sonore
 * l'état de la batterie radio
 
-Un appuie sur les icônes du haut-parleur ou de la batterie permet d'accéder aux options Général ou Batterie de la radio.
+Un appui sur les icônes du haut-parleur ou de la batterie permet d'accéder aux options Général ou Batterie de la radio.
 
 #### &#x20;Avertissement d'erreur
 Une icône d'avertissement d'erreur en triangle rouge s'affiche dans la barre supérieure de la vue principale lorsque ETHOS détecte une des erreurs suivantes:
@@ -38,5 +38,5 @@ Les détails relatifs à l'avertissement sont affichés dans la page Système / 
 
 
 La barre inférieure comporte quatre icones pour accéder aux fonctions suivantes,de gauche à droite : Ecran d'accueil du modèle, Configuration du modèle, Configurer les écrans du modèle et Configuration du système. 
-L'heure système s'affiche à droite. Un appuie sur l'heure permet d'accéder aux options de date et d'heure de la radio. 
+L'heure système s'affiche à droite. Un appui sur l'heure permet d'accéder aux options de date et d'heure de la radio. 
 
