@@ -10,6 +10,8 @@ Les vues principales partagent normalement les barres supérieure et inférieure
 
 ### &#x20;La barre supérieure
 
+![image](https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6)
+
 La barre supérieure affiche le nom du modèle sur la gauche, ainsi que la phase de vol active si ces dernières sont utilisées. Sur la droite se trouvent des icônes pour :
 
 * l'enregistrement des données
@@ -22,9 +24,6 @@ La barre supérieure affiche le nom du modèle sur la gauche, ainsi que la phase
 Un appuie sur les icônes du haut-parleur ou de la batterie permet d'accéder aux options Général ou Batterie de la radio.
 
 #### &#x20;Avertissement d'erreur
-
-![image](https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6)
-
 Une icône d'avertissement d'erreur en triangle rouge s'affiche dans la barre supérieure de la vue principale lorsque ETHOS détecte une des erreurs suivantes:
 
 * Erreurs de script Lua
