@@ -6,7 +6,7 @@ Ethos permet à l'utilisateur une grande flexibilité dans l'affichage de diffé
 
 Les vues principales partagent normalement les barres supérieure et inférieure, mais d'autres options sont possibles, voire même configurables par l'utilisateur. Reportez vous à la section Configurer les écrans pour plus de détails sur la configuration des affichages et la programmation LUA.
 
-<figure><img src=".gitbook/assets/mainviews1.png" alt=""><figcaption><p>Exemple de vue principale</p></figcaption></figure>
+![Exemple de vue principale](.gitbook/assets/mainviews1.png)
 
 ### La barre supérieure
 
