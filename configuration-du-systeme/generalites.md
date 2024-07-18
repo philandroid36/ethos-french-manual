@@ -1,86 +1,8 @@
-# test1
-
-**Partage de fichiers via Bluetooth**
-
-ETHOS dispose d'une fonction de transfert de fichiers Bluetooth radio-radio.
-
-![](.gitbook/assets/0.png)
-
-Sur la radio de réception, à l'aide du Gestionnaire de fichiers, accédez au dossier du modèle dans lequel vous souhaitez recevoir le modèle. Appuyez longuement sur Entrée et sélectionnez « Recevoir le fichier ici ».
-
-![](.gitbook/assets/1.png)
-
-Sur la radio qui envoie, accédez au fichier que vous souhaitez envoyer et appuyez dessus. Sélectionnez ensuite « Envoyer le fichier » et suivez les instructions sur les deux radios.
-
-Si la radio est déjà connectée à un autre appareil Bluetooth sous Télémétrie / Bluetooth ou Trainer / Mode de liaison / Bluetooth ou Général / Audio / Bluetooth (X20S/Pro uniquement), il vous sera demandé si vous souhaitez déconnecter cet appareil.
-
-#### Alertes <a href="#toc170159476" id="toc170159476"></a>
-
-![](.gitbook/assets/2.png)(fr)![](.gitbook/assets/3.png)(fr)
-
-Les alertes système sont les suivantes :
-
-**Mode silencieux**
-
-Une alerte « Mode silencieux » sera émise au démarrage lorsque la vérification « Mode silencieux » est activée et que le « Mode audio » a été réglé sur Silencieux en mode Système / Général / Audio
-
-**Tension principale**
-
-Une alerte vocale « La batterie de la radio est faible » est émise lorsque la vérification de la « Tension principale » est activée et que la batterie de la radio principale est inférieure au seuil défini dans le paramètre « Basse tension » dans Système / Batterie.
-
-**Tension pile RTC**
-
-Une alerte vocale « La batterie RTC est faible » sera émise lorsque la vérification de la « tension RTC » est activée et que la pile bouton RTC est inférieure à 2,5 V, le seuil de batterie RTC par défaut. Il peut être éteint jusqu'à ce que la batterie RTC ait été remplacée, mais ne doit pas être laissé éteint indéfiniment. Le temps réel est utilisé dans l'enregistrement des données, et une heure invalide entraînera des difficultés dans la lecture des journaux, en particulier pour distinguer les sessions de vol.
-
-**Avertissement de conflit de capteur**
-
-La détection des conflits de capteurs peut être désactivée. Cela ne devrait être nécessaire que si vous avez des capteurs qui ne répondent pas à la spécification S.Port.
-
-**Inactivité**
-
-Une alerte vocale « Radio inactive » sera émise lorsque la radio n'a pas été utilisée pendant plus longtemps que la durée « Inactivité », ainsi qu'une vibration au cas où le volume de la radio serait complètement baissé. La valeur par défaut est de 10 minutes.
-
-#### Date et heure <a href="#toc170159482" id="toc170159482"></a>
-
-![](.gitbook/assets/4.jpeg)![](.gitbook/assets/5.jpeg)
-
-Les paramètres de date et d'heure sont les suivants :
-
-**Délai de 24 heures**
-
-L'horloge s'affiche au format 24 heures lorsqu'elle est activée.
-
-**Affichage des secondes**
-
-L'horloge affichera les secondes lorsqu'elle sera activée.
-
-**Date**
-
-Doit être défini sur la date du jour. Ceci est utilisé dans les journaux.
-
-**Heure**
-
-Doit être réglé sur l'heure actuelle. Ceci est utilisé dans les journaux.
-
-**Fuseau horaire**
-
-Permet de configurer le fuseau horaire de l'utilisateur.
-
-**Ajuster la vitesse RTC**
-
-L'horloge en temps réel peut être calibrée pour compenser toute dérive de l'horloge, jusqu'à 41 secondes par jour.
-
-Pour l'étalonnage, calculez combien de secondes votre horloge gagne ou perd en 24 heures.
-
-Réglez la valeur d'étalonnage sur 12 fois ce nombre de secondes, ce qui la rend négative si votre horloge est rapide et positive si elle est lente. Pour une meilleure précision, vous pouvez ensuite vérifier si votre horloge est précise et ajuster légèrement la valeur d'étalonnage. La valeur d'étalonnage réelle peut être réglée entre -500 et +500.
-
-**Réglage automatique à partir du GPS**
-
-Lorsqu'elle est activée, l'heure et la date seront automatiquement réglées à partir des données du capteur GPS à distance.
+# Généralités
 
 #### Généralités <a href="#toc170159490" id="toc170159490"></a>
 
-![](.gitbook/assets/6.jpeg)
+![](<../.gitbook/assets/0 (4).jpeg>)
 
 Les éléments suivants peuvent être configurés ici :
 
@@ -94,7 +16,7 @@ Les éléments suivants peuvent être configurés ici :
 
 Les attributs de l'écran LCD peuvent être configurés ici :
 
-![](.gitbook/assets/7.jpeg)
+![](<../.gitbook/assets/1 (4).jpeg>)
 
 **Langue**
 
@@ -126,17 +48,17 @@ Veuillez noter que si Luminosité (pour le rétroéclairage activé) = « Lumino
 
 **Option potentiomètre**
 
-![](.gitbook/assets/8.jpeg)
+![](<../.gitbook/assets/2 (5).jpeg>)
 
 Appuyez sur « Utiliser une source », puis sélectionnez un potentiomètre à utiliser comme contrôle de la luminosité.
 
-![](.gitbook/assets/9.jpeg)
+![](<../.gitbook/assets/3 (6).jpeg>)
 
 L'exemple ci-dessus montre que la luminosité est contrôlée via le potentiomètre 1.
 
 **Mise en veille**
 
-![](.gitbook/assets/10.png)(fr)
+![](../.gitbook/assets/4.png)(fr)
 
 Le rétroéclairage de l'écran peut être réveillé de l'état de veille conformément à une ou plusieurs des options suivantes :
 
@@ -164,7 +86,7 @@ Durée d'inactivité avant la désactivation du rétroéclairage. Lorsque vous s
 
 **Luminosité du mode veille**
 
-![](.gitbook/assets/11.jpeg)(fr)
+![](<../.gitbook/assets/5 (4).jpeg>)(fr)
 
 Utilisez le curseur pour contrôler la luminosité de l'écran en mode veille, de gauche à droite pour régler la luminosité de sombre à clair.
 
@@ -180,7 +102,7 @@ Permet de sélectionner la couleur de surbrillance à utiliser dans l'affichage.
 
 **Emplacement de stockage (X18 et X20 Pro/R/RS)**
 
-![](.gitbook/assets/12.jpeg)
+![](<../.gitbook/assets/6 (2).jpeg>)
 
 Les radios X18 et X20 Pro/R/RS disposent d'une carte eMMC (MultiMediaCard intégrée) de 8 Go qui est un périphérique de stockage composé d'une mémoire flash NAND et d'un simple contrôleur de stockage. Le système ETHOS sélectionne par défaut le stockage eMMC, ce qui rend l'utilisation de la carte SD facultative. Cependant, l'utilisateur peut choisir l'utilisation du stockage eMMC ou utiliser une carte SD en option ou une combinaison des deux.
 
@@ -188,7 +110,7 @@ Veuillez-vous référer à l'écran de sélection de l'emplacement de stockage c
 
 **Paramètres audio**
 
-![](.gitbook/assets/13.png)(fr)
+![](<../.gitbook/assets/7 (1).png>)(fr)
 
 **Langue audio**
 
@@ -252,7 +174,7 @@ Utilisez le curseur pour contrôler le volume audio. Un appui long sur \[ENT] pe
 
 **Mode audio**
 
-![](.gitbook/assets/14.png)(fr)
+![](<../.gitbook/assets/8 (1).png>)(fr)
 
 **Silencieux**
 
@@ -278,27 +200,27 @@ En plus des sons dans « Souvent », il y aura également des bips lorsque le me
 
 Les modèles X20S, HD et X20 Pro/R/RS disposent d'un mode audio supplémentaire pour relayer l'audio vers un appareil Bluetooth comme un casque.
 
-![](.gitbook/assets/15.jpeg)
+![](<../.gitbook/assets/9 (3).jpeg>)
 
 Appuyez sur « Rechercher des appareils ».
 
-![](.gitbook/assets/16.jpeg)
+![](<../.gitbook/assets/10 (1).jpeg>)
 
 Le message « En attente d'appareils » s'affiche. Allumez votre appareil Bluetooth et placez-le en mode d'appairage.
 
-![](.gitbook/assets/17.jpeg)
+![](<../.gitbook/assets/11 (4).jpeg>)
 
 Une fois le périphérique Bluetooth trouvé, son nom s'affiche. Touchez-le pour sélectionner l'appareil.
 
-![](.gitbook/assets/18.jpeg)
+![](<../.gitbook/assets/12 (4).jpeg>)
 
 Le message « En attente de l'appareil » s'affiche.
 
-![](.gitbook/assets/19.jpeg)
+![](<../.gitbook/assets/13 (3).jpeg>)
 
 Lorsque la radio et l'appareil sont couplés, le message « Appareil Bluetooth connecté » s'affiche. Appuyez sur OK.
 
-![](.gitbook/assets/20.jpeg)
+![](<../.gitbook/assets/14 (2).jpeg>)
 
 L'écran Bluetooth s'affichera à nouveau.
 
@@ -308,3 +230,82 @@ Pour couper le son du haut-parleur du système (par exemple lors de l'utilisatio
 
 Le système se souvient de l'appareil Bluetooth. Pour un fonctionnement normal, allumez la radio, puis l'appareil Bluetooth. L'appareil Bluetooth se connectera, ce qui prendra quelques secondes pour que la sourdine du haut-parleur s'active à nouveau.
 
+**Vario**
+
+![](../.gitbook/assets/15.png)
+
+Les caractéristiques audio des tonalités vario peuvent être configurées ici.
+
+_**Volume**_
+
+Le volume relatif de la tonalité vario.
+
+_**Tonalité zéro**_
+
+La tonalité lorsque le taux de montée est nul.
+
+_**Tonalité max**_
+
+La tonalité à la vitesse de montée maximale.
+
+_**Répétition**_
+
+Le délai entre les bips à la tonalité zéro.
+
+Reportez-vous au capteur VSpeed dans Télémétrie et à la fonction spéciale Lire vario pour d'autres paramètres Vario.
+
+**Vibration**
+
+![](../.gitbook/assets/16.png)
+
+_**Intensité**_
+
+Utilisez le curseur pour contrôler l'intensité des vibrations haptiques.
+
+_**Mode**_
+
+![](<../.gitbook/assets/17 (1).jpeg>)
+
+Similaire au mode audio ci-dessus.
+
+**Barre d'infos sup**
+
+![](<../.gitbook/assets/18 (1).jpeg>)
+
+_**Tension numérique (volts)**_
+
+L'état de la batterie dans la barre d'outils supérieure peut être modifié à partir de l'affichage de la barre par défaut pour afficher la tension de la batterie radio sous forme de valeur numérique à la place.
+
+_**RSSI numérique**_
+
+De même, l'état RSSI peut être modifié d'un affichage à barres à une valeur numérique pour 2,4G et 900M.
+
+**Sélectionnez le modèle à la mise sous tension**
+
+![](<../.gitbook/assets/19 (1).jpeg>)
+
+Lorsque cette option est activée, l'écran de sélection du modèle s'affiche à la mise sous tension, de sorte qu'un modèle peut être choisi avant que les alertes de la liste de contrôle du modèle précédemment sélectionné ne s'affichent. Cela évite d'avoir à annuler les alertes de la liste de contrôle avant de sélectionner un autre modèle.
+
+Par défaut, le dernier modèle utilisé dans la session précédente est mis en surbrillance pour la sélection.
+
+**Présélection du mode USB**
+
+![](<../.gitbook/assets/20 (1).jpeg>)
+
+Les présélections suivantes sont disponibles lorsque la radio est connectée à un PC via un câble USB :
+
+_**Non défini**_
+
+Si 'Non défini', une boîte de dialogue apparaîtra au moment de la connexion pour qu'une sélection soit effectuée à ce moment-là.
+
+_**Joystick**_
+
+Lors de la connexion, la radio entrera automatiquement en mode joystick pour une utilisation avec un simulateur RC.
+
+_**Ethos Suite**_
+
+Lors de la connexion, la radio entrera automatiquement en « mode Ethos » pour la communication avec Ethos Suite. Veuillez-vous référer au mode Ethos dans la section Ethos Suite.
+
+_**Série**_
+
+Lors de la connexion, la radio entrera automatiquement en mode série, dans lequel les traces de débogage Lua sont envoyées à USB-série s'il y en a. La vitesse de transmission est de 115200 bps. Un pilote de port COM virtuel Windows approprié peut être trouvé [ici](https://www.st.com/en/development-tools/stsw-stm32102.html).
