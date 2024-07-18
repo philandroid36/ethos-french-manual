@@ -4,7 +4,6 @@ La radio dispose d'un écran tactile, ce qui rend l'interface utilisateur assez 
 
 Alternativement, le sélecteur rotatif peut être utilisé pour déplacer la surbrillance vers la tuile ou le paramètre souhaité, puis appuyez sur Entrée pour le sélectionner.
 
-\
 Un appui long sur la touche \[RTN] vous ramènera à l'écran d'accueil à partir de n'importe quel sous-menu.
 
 En touchant l'heure système à droite de la barre inférieure, vous accédez à la section Date et heure, qui vous permet de régler l'heure et la date.
