@@ -1,3 +1,4 @@
+
 # Vues principales
 
 ## Vues principales
@@ -10,7 +11,7 @@ Les vues principales partagent normalement les barres supérieure et inférieure
 
 ### La barre supérieure
 
-<figure><img src="https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6" alt=""><figcaption><p>Barre supérieure</p></figcaption></figure>
+![Barre supérieure](https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6)
 
 La barre supérieure affiche le nom du modèle sur la gauche, ainsi que la phase de vol active si ces dernières sont utilisées. Sur la droite se trouvent des icônes pour :
 
@@ -35,7 +36,6 @@ Les détails relatifs à l'avertissement sont affichés dans la page Système / 
 
 ### La barre inférieure
 
-![image](https://github.com/user-attachments/assets/7984970d-4c06-44cd-aeb4-c4bb824e04e5)
+![Barre inférieure](https://github.com/user-attachments/assets/ad0ca0d6-8fd5-4f75-8149-870fcbe58ef6](https://github.com/user-attachments/assets/7984970d-4c06-44cd-aeb4-c4bb824e04e5)
 
 La barre inférieure comporte quatre icones pour accéder aux fonctions suivantes,de gauche à droite : Ecran d'accueil du modèle, Configuration du modèle, Configurer les écrans du modèle et Configuration du système. L'heure système s'affiche à droite. Un appui sur l'heure permet d'accéder aux options de date et d'heure de la radio.
-
