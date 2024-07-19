@@ -37,5 +37,12 @@ Les détails relatifs à l'avertissement sont affichés dans la page Système / 
 
 ![Barre inférieure](https://github.com/user-attachments/assets/7984970d-4c06-44cd-aeb4-c4bb824e04e5)
 
-La barre inférieure comporte quatre icones pour accéder aux fonctions suivantes,de gauche à droite : Ecran d'accueil du modèle, Configuration du modèle, Configurer les écrans du modèle et Configuration du système. L'heure système s'affiche à droite. Un appui sur l'heure permet d'accéder aux options de date et d'heure de la radio.
+La barre inférieure comporte quatre icones pour accéder aux fonctions suivantes,de gauche à droite : Ecran d'accueil du modèle, Configuration du modèle, Configurer les écrans du modèle et Configuration du système. L'heure système s'affiche à droite. Un appui sur l'heure permet d'accéder aux options de date et d'heure de la 
 
+## La zone des widgets
+
+La zone centrale des vues principales se compose de widgets qui peuvent être configurés pour afficher des images, des chronos, des données de télémétrie, des valeurs radio, etc. L'écran principal par défaut comporte un widget sur la gauche pour une image de modèle et trois widgets pour les chronos, ainsi que l'affichage des trims et des potentiomètres. Les widgets sont configurables par l'utilisateur pour afficher d'autres informations. Une fois que plusieurs écrans ont été configurés, ils sont accessibles à l'aide d'un geste de balayage tactile ou de commandes de navigation.
+
+Reportez-vous à la section Configurer les écrans pour plus de détails.
+
+Note : Le widget 'Throttle ACTIVE' ci-dessus est le widget Status disponible dans le fil de discussion FrSky - ETHOS Lua Script Programming sur rcgroups.
