@@ -39,3 +39,5 @@ Les détails relatifs à l'avertissement sont affichés dans la page Système / 
 
 La barre inférieure comporte quatre icones pour accéder aux fonctions suivantes,de gauche à droite : Ecran d'accueil du modèle, Configuration du modèle, Configurer les écrans du modèle et Configuration du système. L'heure système s'affiche à droite. Un appui sur l'heure permet d'accéder aux options de date et d'heure de la radio.
 
+## suite
+
